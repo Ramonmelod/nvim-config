@@ -4,7 +4,7 @@
 <img src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c" alt="logo Lua" width="200" height="auto">
 
 ## Description: 
- This repository is basic neovim configuration model for those who want to to set up neovim without beginning from zero!
+ This repository is basic neovim linux configuration model for those who want to to set up neovim without beginning from zero!
 
 ## Used Technologies:
 
