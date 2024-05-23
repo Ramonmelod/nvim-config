@@ -29,9 +29,16 @@ git clone https://github.com/Ramonmelod/nvim-config.git ~/.config/nvim
 ```
 PS: If your Neovim was already installed, verify that are no other files in your directory `~/.config/nvim`. Those other files could conflict with the files download via Git from this repository.
 
-3. Open your Neovim editor, running the command nvim on your terminal and in the command mode type the following:
+3. Download the repository `packer.nvim` to your computer to get the Neovim package manager by running the command:
+
+```sh
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+```
+4. Open your Neovim editor, running the command nvim on your terminal and in the command mode type the following:
 
 ```sh
 :PackerSync
 ```
-4. After that, your Neovim will update all your plugins and be ready for use.
+
+5. After that, your Neovim will update all your plugins and be ready for use.
