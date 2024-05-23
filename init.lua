@@ -7,4 +7,4 @@ vim.o.number = true
 vim.o.mouse = "a"
 
 require("packer-plugins")
---vim.bo.shiftwidth = 15 
+--vim.bo.shiftwidth = 15
