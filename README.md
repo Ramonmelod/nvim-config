@@ -27,7 +27,7 @@ sudo apt update && sudo apt install neovim
 ```sh
 git clone https://github.com/Ramonmelod/nvim-config.git ~/.config/nvim
 ```
-PS: If your Neovim was already installed, verify that are no other files in your directory `~/.config/nvim`. Those other files could conflict with the files download via Git from this repository.
+PS: If your Neovim was already installed, verify that are no other files in your directory `~/.config/nvim`. Those other files could conflict with the files downloaded via Git from this repository.
 
 3. Download the repository `packer.nvim` to your computer to get the Neovim package manager by running the command:
 
