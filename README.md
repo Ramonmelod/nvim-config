@@ -32,8 +32,7 @@ PS: If your Neovim was already installed, verify that are no other files in your
 3. Download the repository `packer.nvim` to your computer to get the Neovim package manager by running the command:
 
 ```sh
-git clone --depth 1 https://github.com/wbthomason/packer.nvim\
- ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+git clone https://github.com/wbthomason/packer.nvim.git ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 4. Open your Neovim editor, running the command nvim on your terminal and in the command mode type the following:
 
