@@ -17,6 +17,11 @@
 
 ## Instructions:
 
+#### before start check your version of `neovim`, for this repository needs neovim >=0.8.0.
+
+- See neovim versions in: https://github.com/neovim/neovim/releases
+
+
 1. In case it is not installed yet run the command below to get Neovim:
 
 ```sh
