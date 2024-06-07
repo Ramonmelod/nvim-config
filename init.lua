@@ -5,6 +5,7 @@ vim.opt.termguicolors = true
 vim.g.mapleader = " "
 
 vim.api.nvim_set_keymap("i","jk","<ESC>",{noremap = true}) -- the "i" option stands for the moment that this keymap will be active
+vim.api.nvim_set_keymap("n", "<leader>j", ":NvimTreeToggle<CR>", { noremap = true, silent = true})
 
 vim.o.number = true -- it shows the number of the line in Neovim 
 
