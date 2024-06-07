@@ -43,3 +43,4 @@ git clone https://github.com/wbthomason/packer.nvim.git ~/.local/share/nvim/site
 5. After that, your Neovim will update all plugins from the scrips of this repository and be ready for use. Bellow you can some of the remaps commands from this neovim configuration:
 
 `jk = <ESC>`
+`Space + j  = nvim-tree`
