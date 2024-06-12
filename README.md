@@ -1,8 +1,8 @@
 # Personal setup for Neovim using Lua
-
+<div style="display:flex;">
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png" alt="logo Neovim" width="200" height="auto">
 <img src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c" alt="logo Lua" width="200" height="auto">
-
+</div>
 
 ## Description:
 
