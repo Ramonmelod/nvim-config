@@ -65,7 +65,7 @@ require("nvim-tree").setup({
     group_empty = true,
   },
   filters = {
-    dotfiles = true,
+    dotfiles = false,
   },
 })
 
@@ -83,3 +83,4 @@ require('telescope').setup{
   }
 
  require("toggleterm").setup{}
+-- require("nvim-treesitter").setup{}
