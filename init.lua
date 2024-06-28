@@ -17,6 +17,7 @@ vim.api.nvim_set_keymap("n", "<leader>3", ":ToggleTerm 3 size=60 direction=verti
 vim.api.nvim_set_keymap("n", "<leader>4", ":ToggleTerm 4 size=60 direction=vertical<CR>", { noremap = true, silent = true}) -- it opens the vert. terminal number 4
 vim.api.nvim_set_keymap("n", "<leader>5", ":ToggleTerm 5 size=60 direction=vertical<CR>", { noremap = true, silent = true}) -- it opens the vert. terminal number 5
 vim.api.nvim_set_keymap("n", "<leader>6", ":ToggleTerm 6 size=60 direction=vertical<CR>", { noremap = true, silent = true}) -- it opens the vert. terminal number 6
+vim.api.nvim_set_keymap("v", "<leader>y", '"+y', { noremap = true, silent = true}) -- it copies the selection to the clipboard 
 
 vim.api.nvim_set_keymap("n", "<C-j>", ":ToggleTerm 0 size=15 direction=horizontal<CR>", { noremap = true, silent = true}) -- it opens the horizon. terminal number 0
 vim.api.nvim_set_keymap("n", "<C-k>", ":ToggleTerm 1 size=15 direction=horizontal<CR>", { noremap = true, silent = true}) -- it opens the horizon. terminal number 1
