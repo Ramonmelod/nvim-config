@@ -69,6 +69,7 @@ git clone https://github.com/wbthomason/packer.nvim.git ~/.local/share/nvim/site
 - `Space + s  = switch to bottom terminal`
 - `Space + a  = switch to left terminal`
 - `Space + d  = switch to right terminal`
+- `Space + y  = in visual mode it copies the selection to the clipboard`
 - `r = redo`
 - `u = undo`
 
