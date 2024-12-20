@@ -8,16 +8,30 @@
 
 This repository is a basic neovim linux configuration model for those who want to to set up neovim without beginning from zero!
 
+## Some images:
+- Search bar: **Ctrl + l**
+
+![image](https://github.com/user-attachments/assets/22184ffc-29ea-4c89-abc4-153a5a856289)
+
+- Tree side bar **Ctrl + j**
+
+![image](https://github.com/user-attachments/assets/bb6e2cdd-e6f1-4dcf-bc8f-bab5ee82e23e)
+
+- Embendded terminal: **Ctr + K**
+
+![image](https://github.com/user-attachments/assets/2b41c77f-91f0-4732-a247-356caf4c25b9)
+
+
+
+
+
 ## Used Technologies:
 
 - `Neovim`
 - `Lua`
 
-## Autor
 
-- Ramon Melo — Linkedin: [LinkedIn/ramonmelod](https://www.linkedin.com/in/ramonmelod/)
-
-## Instructions:
+## Get Started:
 
 #### before start check your version of `neovim`, for this repository needs neovim >=0.8.0.
 
@@ -78,3 +92,7 @@ git clone https://github.com/wbthomason/packer.nvim.git ~/.local/share/nvim/site
 - `yy = copy the line`
 - `p = paste the copied line in the below line`
 - `P = paste the copied line in the above line`
+
+## Autor
+
+- Ramon Melo — Linkedin: [LinkedIn/ramonmelod](https://www.linkedin.com/in/ramonmelod/)
