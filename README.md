@@ -25,6 +25,9 @@ This repository is a basic neovim linux configuration model for those who want t
   
 ![image](https://github.com/user-attachments/assets/41658564-1cb5-4062-8eb4-05ef3ffd6107)
 
+- Embendded several vertical terminals: `<space> + 1 ` and `<space> + 2 ` and `<space> + 3 ` and `<space> + 4 `
+ 
+![image](https://github.com/user-attachments/assets/00454129-5be7-41f4-b73e-f11fd2eb1063)
 
 #### colorschemes examples:
 - To see all the themes type: `:colorscheme <TAB>`
