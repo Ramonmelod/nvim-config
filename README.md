@@ -21,7 +21,7 @@ This repository is a basic neovim linux configuration model for those who want t
 
 ![image](https://github.com/user-attachments/assets/2b41c77f-91f0-4732-a247-356caf4c25b9)
 
-- Embendded horizontal terminal: **<TAB>**
+- Embendded horizontal terminal: `<TAB>`
   
 ![image](https://github.com/user-attachments/assets/41658564-1cb5-4062-8eb4-05ef3ffd6107)
 
