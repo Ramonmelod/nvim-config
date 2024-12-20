@@ -17,12 +17,24 @@ This repository is a basic neovim linux configuration model for those who want t
 
 ![image](https://github.com/user-attachments/assets/bb6e2cdd-e6f1-4dcf-bc8f-bab5ee82e23e)
 
-- Embendded terminal: **Ctr + K**
+- Embendded vertical terminal: **Ctr + K**
 
 ![image](https://github.com/user-attachments/assets/2b41c77f-91f0-4732-a247-356caf4c25b9)
 
+- Embendded horizontal terminal: **<TAB>**
+  
+![image](https://github.com/user-attachments/assets/41658564-1cb5-4062-8eb4-05ef3ffd6107)
 
 
+#### colorschemes examples:
+- To see all the themes type: `:colorscheme <TAB>`
+  
+![image](https://github.com/user-attachments/assets/7faaaad4-3b83-4f1a-b401-15640ea083d3)
+
+**Terafox**
+![image](https://github.com/user-attachments/assets/dbf8f48c-f788-476c-a7d8-a0f555e299e4)
+
+ 
 
 
 ## Used Technologies:
