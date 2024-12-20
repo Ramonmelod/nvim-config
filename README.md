@@ -29,7 +29,7 @@ This repository is a basic neovim linux configuration model for those who want t
  
 ![image](https://github.com/user-attachments/assets/00454129-5be7-41f4-b73e-f11fd2eb1063)
 
-#### colorschemes examples:
+#### Colorschemes examples:
 - To see all the themes type: `:colorscheme <TAB>`
   
 ![image](https://github.com/user-attachments/assets/7faaaad4-3b83-4f1a-b401-15640ea083d3)
@@ -48,7 +48,7 @@ This repository is a basic neovim linux configuration model for those who want t
 
 ## Get Started:
 
-#### before start check your version of `neovim`, for this repository needs neovim >=0.8.0.
+#### Before start check your version of `neovim`, for this repository needs neovim >=0.8.0.
 
 - See neovim versions in: https://github.com/neovim/neovim/releases
 
@@ -78,7 +78,9 @@ git clone https://github.com/wbthomason/packer.nvim.git ~/.local/share/nvim/site
 :PackerSync
 ```
 
-5. After that, your Neovim will update all plugins from the scrips of this repository and be ready for use. Bellow you can some of the remaps commands from this neovim configuration:
+5. After that, your Neovim will update all plugins from the scrips of this repository and be ready for use. Bellow you can see some of the remaps commands from this neovim configuration.
+
+## Basic Commands:
 
 - `jk = <ESC>`
 - `Space + j  = nvim-tree`
