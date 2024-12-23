@@ -103,6 +103,14 @@ git clone https://github.com/wbthomason/packer.nvim.git ~/.local/share/nvim/site
 - `Space + y  = in visual mode it copies the selection to the clipboard`
 - `r = redo`
 - `u = undo`
+- `gg = go to the begin of the file`
+- `G =  go to the end of the file`
+- `0 = go to the begin of the line`
+- `$ =  go to the end of the line`
+- `/your-search = go to the researched word after the cursor`
+- `?your-search = go to the researched word before the cursor`
+- `Ctrl + d = rolls half file below`
+-  `Ctrl + d = rolls half file above`
 
 6. Neovim utilily commands:
 
