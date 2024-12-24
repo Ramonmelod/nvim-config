@@ -107,10 +107,13 @@ git clone https://github.com/wbthomason/packer.nvim.git ~/.local/share/nvim/site
 - `G =  go to the end of the file`
 - `0 = go to the begin of the line`
 - `$ =  go to the end of the line`
-- `/your-search = go to the researched word after the cursor`
-- `?your-search = go to the researched word before the cursor`
+- `/your-search + enter = go to the researched word after the cursor`
+- `?your-search + enter = go to the researched word before the cursor`
+- `n = goes to the next researched word`
+- `N = goes to the previous researched word`
 - `Ctrl + d = rolls half file below`
 - `Ctrl + u = rolls half file above`
+
 
 6. Neovim utilily commands:
 
