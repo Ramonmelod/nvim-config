@@ -110,7 +110,7 @@ git clone https://github.com/wbthomason/packer.nvim.git ~/.local/share/nvim/site
 - `/your-search = go to the researched word after the cursor`
 - `?your-search = go to the researched word before the cursor`
 - `Ctrl + d = rolls half file below`
--  `Ctrl + d = rolls half file above`
+- `Ctrl + u = rolls half file above`
 
 6. Neovim utilily commands:
 
